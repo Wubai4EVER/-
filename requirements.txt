@@ -7,3 +7,7 @@ ray==2.6.0
 solana==0.26.4
 openai==0.29.0
 dowhy==0.8.1
+pytest==7.4.2
+black==23.3.0
+isort==5.12.0
+flake8==6.1.0
