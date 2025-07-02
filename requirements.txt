@@ -1,0 +1,9 @@
+fastapi==0.103.1
+uvicorn[standard]==0.23.2
+qdrant-client==1.7.1
+neo4j==5.9.0
+timescaleclient==0.1.2
+ray==2.6.0
+solana==0.26.4
+openai==0.29.0
+dowhy==0.8.1
