@@ -2,7 +2,7 @@
 name = "kuromi-agent-framework"
 version = "3.0.0"
 description = "Sentience research platform prototype for emotional AI."
-authors = ["Your Name <you@example.com>"]
+authors = ["Juliasudo"]
 license = "MIT"
 
 [tool.poetry.dependencies]
